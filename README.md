@@ -22,6 +22,7 @@ This project fills both gaps and asks whether a detector can tell when it should
 Each detected lesion is also attached to the tooth it sits on (upper/lower jaw and position from the
 image's left), because a clinician needs "caries on L4", not just a box.
 
+
 ## What changed from the class project
 
 | Class project (CECS 553) | DentAware |
